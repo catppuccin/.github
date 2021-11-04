@@ -1,4 +1,4 @@
-<h1 align="center">Katppuccino! <img src="https://raw.githubusercontent.com/katppuccino/.github/main/assets/hand_waving.gif?raw=true" width="30px"></h1>
+<h1 align="center">Catppuccin! <img src="https://raw.githubusercontent.com/katppuccino/.github/main/assets/hand_waving.gif?raw=true" width="30px"></h1>
 
 Katppuccino (formerly known as Catppuccino) is a mid-tone dark theme for the masses! Currently it's under active development.
 
