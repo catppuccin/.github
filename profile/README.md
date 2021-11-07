@@ -1,8 +1,10 @@
-<h1 align="center">Catppuccin! <img src="https://raw.githubusercontent.com/catppuccin/.github/main/assets/hand_waving.gif?raw=true" width="30px"></h1>
+<p align="center">
+  <h2 align="center">🐱 Catppuccin!</h2>
+</p>
 
-Catppuccin (formerly known as Catppuccino) is a mid-tone dark theme for the masses! Currently it's under active development.
+<p align="center">Mid-tone dark theme for the masses!</p>
 
-+ You can view current discussions [here](https://github.com/Pocco81/Catppuccino.nvim/issues/44)
-+ Development is being carried out [here](https://github.com/Pocco81/Catppuccino.nvim/tree/dev-remaster)
-+ Announcements are given [here](https://github.com/Pocco81/Catppuccino.nvim/issues/44#issuecomment-954424799)
-+ The current "home" repo is [this one](https://github.com/Pocco81/Catppuccino.nvim)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/morning_palette.png" width="175" />
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/night_palette.png" width="175" />
+</p>
