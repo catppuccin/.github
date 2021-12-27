@@ -1,8 +1,9 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/logos/logos/500x500_circle.png" width="90" />
-  <h2 align="center">Catppuccin Theme</h2>
-</p>
-<p align="center">Vibrant pastel theme for the masses!</p>
+<h3 align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/transparent.png" height="30" width="0px"/>
+	Catppuccin Theme
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/transparent.png" height="30" width="0px"/>
+</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/morning.png" width="175" />
@@ -10,10 +11,14 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/catppuccin/catppuccin/stargazers"><img src="https://img.shields.io/github/stars/catppuccin?colorA=1e1e28&colorB=a4b9ef&style=for-the-badge&logo=starship"></a>
+    <a href="https://github.com/catppuccin/catppuccin/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/catppuccin?colorA=1e1e28&colorB=a4b9ef&style=for-the-badge&logo=starship style=for-the-badge"></a>
     <a href="https://github.com/catppuccin/catppuccin/releases/latest"><img src="https://img.shields.io/github/release/catppuccin/catppuccin.svg?&style=for-the-badge&label=Release&logo=github&logoColor=eceff4&colorA=1e1e28&colorB=f2cecf"/></a>
     <a href="https://github.com/catppuccin/catppuccin/issues"><img src="https://img.shields.io/github/issues/catppuccin/catppuccin?colorA=1e1e28&colorB=bee4ed&style=for-the-badge"></a>
     <a href="https://discord.gg/r6Mdz5dpFc"><img src="https://img.shields.io/discord/907385605422448742?colorA=1e1e28&colorB=c6aae8&label=Discord&logo=discord&logoColor=white&style=for-the-badge"></a>
+</p>
+
+<p align="center">
+	Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high contrast themes. It provides a warm palette with 18 eye-candy colors that are not only perfect for coding under various light conditions, but also for developing graphical user interfaces, making it extensible for numerous use-cases. In addition, this repository tracks the development of the actual color palette, organization-wide assets, resources and code samples for maintainers/developers.
 </p>
 
 <p align="center">
