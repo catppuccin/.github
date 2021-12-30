@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-	Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high contrast themes. It provides a warm palette with 18 eye-candy colors that are not only perfect for coding under various light conditions, but also for developing graphical user interfaces, making it extensible for numerous use-cases.
+	Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high contrast themes. It consists of a soothing warm palette with 22 eye-candy colors perfect for coding, designing, and much more!
 </p>
 
 <p align="center">
