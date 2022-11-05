@@ -34,6 +34,20 @@
 Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high contrast themes. It consists of 4 soothing warm palettes with 26 eye-candy colors each, perfect for coding, designing, and much more!
 </p>
 
+<p align="center">
+Join our community!
+</p>
+
+<p align="center">
+<a href="https://discord.gg/r6Mdz5dpFc"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/latte_discord.svg" width="64" height="64" alt="Discord Logo"/></a>
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="1" width="5"/>
+<a href="https://twitter.com/catppuccintheme"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/latte_twitter.svg" width="64" height="64" alt="Twitter Logo"/></a>
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="1" width="5"/>
+<a href="https://reddit.com/r/catppuccin"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/latte_reddit.svg" width="64" height="64" alt="Reddit Logo"/></a>
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="1" width="5"/>
+<a rel="me" href="https://fosstodon.org/@catppuccin"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/latte_mastodon.svg" width="64" height="64" alt="Mastodon Logo"/></a>
+</p>
+
 &nbsp;
 
 <p align="center">
