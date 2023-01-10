@@ -10,6 +10,8 @@
   ·
   <a href="https://github.com/catppuccin/catppuccin#-ports-and-more">Ports</a>
   ·
+  <a href="https://github.com/catppuccin/catppuccin#-showcase">Showcase</a>
+  ·
   <a href="https://github.com/catppuccin/catppuccin/tree/main/docs">Docs</a>
 </h6>
 
