@@ -6,7 +6,7 @@
 </h3>
 
 <h6 align="center">
-  <a href="https://github.com/catppuccin/catppuccin#-palettes">Palettes</a>
+  <a href="https://github.com/catppuccin/catppuccin#-palette">Palette</a>
   ·
   <a href="https://github.com/catppuccin/catppuccin#-ports-and-more">Ports</a>
   ·
@@ -33,7 +33,7 @@
 &nbsp;
 
 <p align="center">
-Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high contrast themes. It consists of 4 soothing warm palettes with 26 eye-candy colors each, perfect for coding, designing, and much more!
+Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high contrast themes. It consists of 4 soothing warm flavors with 26 eye-candy colors each, perfect for coding, designing, and much more!
 </p>
 
 <p align="center">
