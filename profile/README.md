@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/r6Mdz5dpFc">
+  <a href="https://discord.com/servers/907385605422448742">
     <picture>
       <source srcset="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/macchiato_discord.svg" width="64" height="64" alt="Discord Logo" media="(prefers-color-scheme: dark)"/>
       <source srcset="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/latte_discord.svg" width="64" height="64" alt="Discord Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
