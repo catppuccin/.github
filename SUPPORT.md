@@ -4,7 +4,7 @@ Welcome to Catppuccin! We use GitHub for tracking bugs and feature requests. Thi
 
 ## Real-time Chat
 
-* [Discord](https://discord.gg/z6bwQpGp): The Catppuccin Community is active on Discord, you can post your questions there.
+- [Discord](https://discord.com/servers/catppuccin-907385605422448742): The Catppuccin Community is active on Discord, you can post your questions there.
 
 ## 📄 Documentation
 
