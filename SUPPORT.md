@@ -36,8 +36,8 @@ JetBrains theme, a GitHub issue should be raised on
 We also highly recommend that you provide extra details like your operating
 system, what version of the theme you installed, the configuration you applied,
 ~~was Mercury in retrograde when the issue occured?~~, etc. Of course, these are
-not relevant to all ports but also understand some ports will require this
-information in order for an issue to be raised.
+not relevant to all ports, but some ports will require this information in order
+for an issue to be raised and acted upon.
 
 ### 3. Join the [Discord](https://discord.com/servers/catppuccin-907385605422448742)
 
