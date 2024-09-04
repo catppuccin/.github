@@ -33,10 +33,11 @@ find in our ports. For example, if you have an issue with the Catppuccin
 JetBrains theme, a GitHub issue should be raised on
 [catppuccin/jetbrains](https://github.com/catppuccin/jetbrains).
 
-We also highly recommended to provide extra details like your operating system,
-what version of the theme you installed, the configuration you applied, etc. Of
-course, these are not relevant to all ports but also understand some ports will
-require this information in order for an issue to be raised.
+We also highly recommend that you provide extra details like your operating
+system, what version of the theme you installed, the configuration you applied,
+~~was Mercury in retrograde when the issue occured?~~, etc. Of course, these are
+not relevant to all ports but also understand some ports will require this
+information in order for an issue to be raised.
 
 ### 3. Join the [Discord](https://discord.com/servers/catppuccin-907385605422448742)
 
