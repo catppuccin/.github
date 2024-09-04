@@ -42,6 +42,12 @@ information in order for an issue to be raised.
 ### 3. Join the [Discord](https://discord.com/servers/catppuccin-907385605422448742)
 
 **Join our Discord server!** If you feel like your issue has gone stale or you
-don't feel comfortable raising a GitHub Issue, feel free to join our discord
+don't feel comfortable raising a GitHub Issue, feel free to join our Discord
 server! The Catppuccin community is active on Discord and you can post your
 questions in our dedicated `#support` channel.
+
+You can also ask for help and guidance on creating new ports to be transferred
+into the Catppuccin GitHub organisation. Often, this can streamline the process
+as the feedback loop is usually faster on Discord compared to GitHub, and more
+people will be exposed/interested to your work, even if it's a work in a
+progress!
