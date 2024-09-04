@@ -48,6 +48,5 @@ questions in our dedicated `#support` channel.
 
 You can also ask for help and guidance on creating new ports to be transferred
 into the Catppuccin GitHub organisation. Often, this can streamline the process
-as the feedback loop is usually faster on Discord compared to GitHub, and more
-people will be exposed/interested to your work, even if it's a work in a
-progress!
+as the feedback loop is usually faster on Discord compared to GitHub and more
+people will be exposed to and/or interested in your work.
