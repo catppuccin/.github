@@ -40,7 +40,7 @@ require this information in order for an issue to be raised.
 
 ### 3. Join the [Discord](https://discord.com/servers/catppuccin-907385605422448742)
 
-**Join our Discord server!**. If you feel like your issue has gone stale or you
+**Join our Discord server!** If you feel like your issue has gone stale or you
 don't feel comfortable raising a GitHub Issue, feel free to join our discord
 server! The Catppuccin community is active on Discord and you can post your
 questions in our dedicated `#support` channel.
