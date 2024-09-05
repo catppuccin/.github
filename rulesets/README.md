@@ -35,9 +35,10 @@ unwanted commits being merged into the default branch.
 #### Automated Script
 
 The preferred method of applying these rulesets will be through a script making
-use of the [GraphQL `createRepositoryRuleset`
-Mutation](https://docs.github.com/en/graphql/reference/mutations#createrepositoryruleset),
-however, there are some considerations to keep in mind which are listed below:
+use of the GraphQL
+[`createRepositoryRuleset`](https://docs.github.com/en/graphql/reference/mutations#createrepositoryruleset)
+mutation, however, there are some considerations to keep in mind which are
+listed below:
 
 1. A non-zero amount of repositories already contain these rulesets, so the
    script needs to be robust in order to handle rulesets with the same name. Also,
