@@ -11,7 +11,7 @@ default branch, and much more. To learn more about what rulesets offer, see
 "[About rulesets - GitHub
 Docs](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-rulesets/about-rulesets)."
 
-### What rulesets will Catppuccin apply?
+### What rulesets will be applied?
 
 | Ruleset                                                    | Description                                                                                                  |
 | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
