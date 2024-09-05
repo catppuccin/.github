@@ -1,8 +1,17 @@
-# Contributing!
+<div align="center">
+  <h2>🙌 Contributing</h2>
+  <p>Things to know when contributing to Catppuccin</p>
+</div>
+
+### Contribution Types
 
 🎉 First off, thanks for taking the time to contribute! 🎉
 
-> **Note**: if you are here because you want to submit a port/learn how to port Catppuccin to a program please refer to the [documentation](https://github.com/catppuccin/catppuccin/blob/main/docs/contributing.md)
+> [!NOTE]  
+> To learn how to port Catppuccin to a program please refer to the
+> [port-creation.md](https://github.com/catppuccin/catppuccin/blob/main/docs/port-creation.md)
+> document over at
+> [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
 
 All types of contributions are encouraged and welcome. 💜
 Though please make sure to read through the following guidelines before making your contribution. It will make it a lot easier for us maintainers and smooth out the experience for all involved.
@@ -16,7 +25,7 @@ Besides the creation and maintenance of ports we appreciate all sorts of code an
 
 &nbsp;
 
-## ✔️ Guidelines
+### ✔️ Guidelines
 
 The following is a set of guidelines for contributing to this project. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
@@ -28,7 +37,7 @@ The following is a set of guidelines for contributing to this project. Use your 
 
 &nbsp;
 
-## 💡 Recommendations
+### 💡 Recommendations
 
 - Create a topic branch on your fork for your specific PR.
 - Check the [Styleguide document](https://github.com/catppuccin/catppuccin/blob/main/docs/style-guide.md) for a rough outline of how to apply the palette.
@@ -36,7 +45,7 @@ The following is a set of guidelines for contributing to this project. Use your 
 
 &nbsp;
 
-## 🤔 I Have a Question
+### 🤔 I Have a Question
 
 Before you ask a question, it is best to search for existing [Issues](/issues) that might help you. In case you have found a suitable issue and still need clarification, you can write your question in this issue. It is also advisable to search the internet for answers first.
 

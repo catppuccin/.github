@@ -1,4 +1,9 @@
-# Catppuccin's Community Guidelines
+<div align="center">
+  <h2>🤝 Code Of Conduct</h2>
+  <p>The set of guidelines/rules for everyone to follow</p>
+</div>
+
+### Community Guidelines
 
 This document defines guidelines for any person(s) participating in the
 Catppuccin community, whether they are a contributor, user, or observer. We
@@ -23,7 +28,7 @@ any other platforms that may be used in the future.
    - Harassment, including offensive comments, unwanted advances, intimidation,
      or any behavior creating discomfort, will not be tolerated.
 
-## Enforcement
+### Enforcement
 
 Discord is, currently, the only platform that is actively moderated by members
 of the Catppuccin leadership team. As we aim to be community-driven, unofficial
@@ -53,7 +58,7 @@ successful.
 > All community leaders are obligated to respect the privacy and security of
 > the reporter of any incident.
 
-## Attribution
+### Attribution
 
 This Code of Conduct is adapted from the [Ruby Community Conduct
 Guideline](https://www.ruby-lang.org/en/conduct/).
