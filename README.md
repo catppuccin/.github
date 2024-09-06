@@ -17,7 +17,9 @@ The purpose of this repository is to store default organisation wide [GitHub
 community health
 files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file#supported-file-types),
 such as [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md),
-[SECURITY.md](./SECURITY.md), [FUNDING.yml](./FUNDING.yml), etc.
+[SECURITY.md](./SECURITY.md), [FUNDING.yml](./FUNDING.yml), etc. It is also a
+place to store files that need to be referenced multiple times across the
+organisation.
 
 &nbsp;
 

@@ -1,0 +1,25 @@
+{
+  "id": 1783283,
+  "name": "Block Force Push",
+  "target": "branch",
+  "source_type": "Repository",
+  "source": "catppuccin/website",
+  "enforcement": "active",
+  "conditions": {
+    "ref_name": {
+      "exclude": [],
+      "include": [
+        "~DEFAULT_BRANCH"
+      ]
+    }
+  },
+  "rules": [
+    {
+      "type": "deletion"
+    },
+    {
+      "type": "non_fast_forward"
+    }
+  ],
+  "bypass_actors": []
+}
