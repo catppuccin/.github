@@ -37,7 +37,6 @@ export type GitHubProfile = string;
 export type CurrentMembers = {
   name: DisplayName;
   url: GitHubProfile;
-  [k: string]: unknown;
 }[];
 /**
  * List of all members who used to be part of the team.
@@ -45,7 +44,6 @@ export type CurrentMembers = {
 export type PastMembers = {
   name: DisplayName;
   url: GitHubProfile;
-  [k: string]: unknown;
 }[];
 
 export interface GovernanceSchema {
@@ -57,5 +55,4 @@ export interface LeadershipTeam {
   responsibilities: Responsibilities;
   "current-members": CurrentMembers;
   "past-members": PastMembers;
-  [k: string]: unknown;
 }

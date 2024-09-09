@@ -13,6 +13,7 @@
       "items": {
         "$id": "#leadership/team",
         "type": "object",
+        "additionalProperties": false,
         "required": [
           "name",
           "description",
@@ -58,6 +59,7 @@
       "type": "array",
       "items": {
         "type": "object",
+        "additionalProperties": false,
         "properties": {
           "name": {
             "type": "string",
