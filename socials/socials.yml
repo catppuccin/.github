@@ -1,0 +1,32 @@
+socials:
+  github:
+    name: "GitHub"
+    url: "https://github.com/catppuccin"
+  discord:
+    name: "Discord"
+    url: "https://discord.com/servers/catppuccin-907385605422448742"
+  mastodon:
+    name: "Mastodon"
+    url: "https://fosstodon.org/@catppuccin"
+  twitter:
+    name: "Twitter"
+    url: "https://twitter.com/catppuccintheme"
+  twitch:
+    name: "Twitch"
+    url: "https://twitch.tv/catppuccin"
+  instagram:
+    name: "Instagram"
+    url: "https://instagram.com/catppuccintheme"
+  youtube:
+    name: "YouTube"
+    url: "https://youtube.com/@catppuccin"
+  tiktok:
+    name: "TikTok"
+    url: "https://tiktok.com/@catppuccin"
+  spotify:
+    name: "Spotify"
+    url: "https://open.spotify.com/user/31elbnluryieb6lh33o4oluv4uqy?si=90eab9fb20d1485a"
+  linkedin:
+    name: "LinkedIn"
+    url: "https://www.linkedin.com/company/catppuccin/"
+# yaml-language-server: $schema=https://raw.githubusercontent.com/catppuccin/.github/main/socials/socials.schema.json
