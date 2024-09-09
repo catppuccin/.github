@@ -1,0 +1,77 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["leadership"],
+  "properties": {
+    "leadership": {
+      "$id": "#leadership",
+      "title": "All Leadership Teams",
+      "description": "Information about all the teams leading Catppuccin.",
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$id": "#leadership/team",
+        "type": "object",
+        "required": [
+          "name",
+          "description",
+          "responsibilities",
+          "current-members",
+          "past-members"
+        ],
+        "properties": {
+          "name": {
+            "type": "string",
+            "title": "Team Name",
+            "description": "The display name of the team."
+          },
+          "description": {
+            "type": "string",
+            "title": "Description",
+            "description": "A short description of what the team is."
+          },
+          "responsibilities": {
+            "type": "string",
+            "title": "Responsibilities",
+            "description": "A list of items that the team is responsible for."
+          },
+          "current-members": {
+            "title": "Current Members",
+            "description": "List of all members in this team.",
+            "type": "array",
+            "$ref": "#/$defs/members"
+          },
+          "past-members": {
+            "title": "Past Members",
+            "description": "List of all members who used to be part of the team.",
+            "type": "array",
+            "$ref": "#/$defs/members"
+          }
+        }
+      }
+    }
+  },
+  "$defs": {
+    "members": {
+      "$id": "#members",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "title": "Display Name",
+            "description": "The display name of the member."
+          },
+          "url": {
+            "type": "string",
+            "title": "GitHub Profile",
+            "description": "The GitHub profile link of the member."
+          }
+        },
+        "required": ["name", "url"]
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "@/": "./"
+  },
+  "tasks": {
+    "update-types": "deno run --no-lock -A npm:json-schema-to-typescript ./governance.schema.json ./governance.d.ts"
+  }
+}
