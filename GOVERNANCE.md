@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>🏳️‍🌈 Governance</h2>
+  <h2>⚖️ Governance</h2>
   <p>How Catppuccin is structured and lead.</p>
 </div>
 
