@@ -49,3 +49,4 @@ leadership:
       - name: Etzelia
         url: https://github.com/jolheiser
     past-members: []
+# yaml-language-server: $schema=https://raw.githubusercontent.com/catppuccin/.github/main/governance/governance.schema.json

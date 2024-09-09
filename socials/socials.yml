@@ -29,4 +29,4 @@ socials:
   linkedin:
     name: "LinkedIn"
     url: "https://www.linkedin.com/company/catppuccin/"
-# yaml-language-server: $schema=./socials.schema.json
+# yaml-language-server: $schema=https://raw.githubusercontent.com/catppuccin/.github/main/socials/socials.schema.json

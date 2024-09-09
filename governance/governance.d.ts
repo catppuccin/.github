@@ -57,11 +57,5 @@ export interface LeadershipTeam {
   responsibilities: Responsibilities;
   "current-members": CurrentMembers;
   "past-members": PastMembers;
-}
-export interface LeadershipTeam {
-  name: TeamName;
-  description: Description;
-  responsibilities: Responsibilities;
-  "current-members": CurrentMembers;
-  "past-members": PastMembers;
+  [k: string]: unknown;
 }
