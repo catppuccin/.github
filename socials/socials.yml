@@ -11,6 +11,9 @@ socials:
   twitter:
     name: "Twitter"
     url: "https://twitter.com/catppuccintheme"
+  bsky:
+    name: "Bluesky"
+    url: "https://bsky.app/profile/catppuccin.com"
   twitch:
     name: "Twitch"
     url: "https://twitch.tv/catppuccin"
