@@ -48,5 +48,7 @@ leadership:
         url: https://github.com/nyxkrage
       - name: Etzelia
         url: https://github.com/jolheiser
+      - name: Bell
+        url: https://github.com/isabelroses
     past-members: []
 # yaml-language-server: $schema=https://raw.githubusercontent.com/catppuccin/.github/main/governance/governance.schema.json

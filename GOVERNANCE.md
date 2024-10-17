@@ -97,11 +97,12 @@ Responsible for moderating the community, including enforcing the rules and our 
 
 <table>
   <tr>
-    <th colspan="2" align="center"><h4>Current Members</h4></th>
+    <th colspan="3" align="center"><h4>Current Members</h4></th>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/nyxkrage"><img src="https://github.com/nyxkrage.png" width="100px;" alt=""/><br /><sub><b>Nyx</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/jolheiser"><img src="https://github.com/jolheiser.png" width="100px;" alt=""/><br /><sub><b>Etzelia</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/isabelroses"><img src="https://github.com/isabelroses.png" width="100px;" alt=""/><br /><sub><b>Bell</b></sub></a><br /></td>
   </tr>
 </table>
 
