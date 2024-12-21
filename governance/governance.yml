@@ -1,5 +1,7 @@
 leadership:
   - name: "Core"
+    identifier: "core"
+    color: "teal"
     description: "Owners of the GitHub organisation."
     responsibilities: "Responsible for organisation wide matters. Such as setting the direction of the organisation, approving new ports, adding new maintainers, and cultivating a healthy community."
     current-members:
@@ -17,6 +19,8 @@ leadership:
       - name: winston
         url: https://github.com/nekowinston
   - name: "Staff"
+    identifier: "staff"
+    color: "mauve"
     description: "Maintainers of all GitHub repositories in the organisation."
     responsibilities: "Responsible for assisting the Core team in their activities."
     current-members:
@@ -32,6 +36,8 @@ leadership:
       - name: Dukk
         url: https://github.com/DakshG07
   - name: "Userstyles Staff"
+    identifier: "userstyles-staff"
+    color: "green"
     description: "Overseers of all userstyles."
     responsibilities: "Responsible for all matters related to userstyles. Such as setting the direction of all userstyles, approving new userstyles, and maintaining them."
     current-members:
@@ -41,6 +47,8 @@ leadership:
         url: https://github.com/uncenter
     past-members: []
   - name: "Moderator"
+    identifier: "moderator"
+    color: "peach"
     description: "Moderators of the Discord server."
     responsibilities: "Responsible for moderating the community, including enforcing the rules and our code of conduct."
     current-members:

@@ -16,6 +16,28 @@ export type AllLeadershipTeams = [LeadershipTeam, ...LeadershipTeam[]];
  */
 export type TeamName = string;
 /**
+ * The identifier of the team, which is the a machine-readable version of the team name.
+ */
+export type Identifier = string;
+/**
+ * The Catppuccin accent color attributed to the team.
+ */
+export type Color =
+  | "rosewater"
+  | "flamingo"
+  | "pink"
+  | "mauve"
+  | "red"
+  | "maroon"
+  | "peach"
+  | "yellow"
+  | "green"
+  | "teal"
+  | "sky"
+  | "sapphire"
+  | "blue"
+  | "lavender";
+/**
  * A short description of what the team is.
  */
 export type Description = string;
@@ -51,6 +73,8 @@ export interface GovernanceSchema {
 }
 export interface LeadershipTeam {
   name: TeamName;
+  identifier: Identifier;
+  color: Color;
   description: Description;
   responsibilities: Responsibilities;
   "current-members": CurrentMembers;
