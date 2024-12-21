@@ -16,6 +16,8 @@
         "additionalProperties": false,
         "required": [
           "name",
+          "identifier",
+          "color",
           "description",
           "responsibilities",
           "current-members",
@@ -26,6 +28,32 @@
             "type": "string",
             "title": "Team Name",
             "description": "The display name of the team."
+          },
+          "identifier": {
+            "type": "string",
+            "title": "Identifier",
+            "description": "The identifier of the team, which is the a machine-readable version of the team name."
+          },
+          "color": {
+            "title": "Color",
+            "description": "The Catppuccin accent color attributed to the team.",
+            "type": "string",
+            "enum": [
+              "rosewater",
+              "flamingo",
+              "pink",
+              "mauve",
+              "red",
+              "maroon",
+              "peach",
+              "yellow",
+              "green",
+              "teal",
+              "sky",
+              "sapphire",
+              "blue",
+              "lavender"
+            ]
           },
           "description": {
             "type": "string",
