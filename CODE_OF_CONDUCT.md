@@ -14,19 +14,22 @@ community, which can be defined as any platform where members interact with
 each other. This includes, but is not limited to, GitHub, Gitea, Discord and
 any other platforms that may be used in the future.
 
-1. **Respect Diverse Perspectives**
+1. **Respect for Diverse Perspectives**
    - Participants are expected to be tolerant of opposing views, disagreements
      should be addressed with respect and courtesy.
 2. **Civil Communication**
    - Participants should communicate professionally and constructively, focusing
      on the merits of ideas rather than targeting individuals.
-3. **Assumption Of Good Intentions**
+3. **Assumption of Good Intentions**
    - Participants should always assume good intentions. Misunderstandings may
      occur, and it is important to give others the benefit of the doubt before
      jumping to conclusions.
-4. **Zero Tolerance Of Harassment**
+4. **Zero Tolerance of Harassment**
    - Harassment, including offensive comments, unwanted advances, intimidation,
      or any behavior creating discomfort, will not be tolerated.
+5. **Value of Human Interaction**
+   - Show respect by means of thoughtful discussion. Exchange original ideas in
+     original words. Use AI only to assist, not to replace entirely.
 
 ### Enforcement
 
@@ -48,7 +51,7 @@ if the participant feels that the action taken was unjust, they may appeal to
 the leadership team. However, we do not guarantee that appeals will be
 successful.
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > Instances of abusive, harassing, or otherwise unacceptable
 > behavior may be reported to the community leaders responsible for enforcement
 > at [core@catppuccin.com](mailto:core@catppuccin.com). Appeals to enforcement
