@@ -23,7 +23,10 @@ leadership:
     color: "mauve"
     description: "Maintainers of all GitHub repositories in the organisation."
     responsibilities: "Responsible for assisting the Core team in their activities."
-    current-members:
+    current-members: []
+    past-members:
+      - name: Dukk
+        url: https://github.com/DakshG07
       - name: Spooky
         url: https://github.com/ghostx31
       - name: Taka
@@ -32,9 +35,6 @@ leadership:
         url: https://github.com/isabelincorp
       - name: Amy
         url: https://github.com/nullishamy
-    past-members:
-      - name: Dukk
-        url: https://github.com/DakshG07
   - name: "Userstyles Staff"
     identifier: "userstyles-staff"
     color: "green"
