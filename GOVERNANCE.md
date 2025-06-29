@@ -54,21 +54,22 @@ Responsible for assisting the Core team in their activities.
 
 <table>
   <tr>
-    <th colspan="4" align="center"><h4>Current Members</h4></th>
+    <th colspan="0" align="center"><h4>Current Members</h4></th>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/ghostx31"><img src="https://github.com/ghostx31.png" width="100px;" alt=""/><br /><sub><b>Spooky</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/taka0o"><img src="https://github.com/taka0o.png" width="100px;" alt=""/><br /><sub><b>Taka</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/isabelincorp"><img src="https://github.com/isabelincorp.png" width="100px;" alt=""/><br /><sub><b>Isabel</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/nullishamy"><img src="https://github.com/nullishamy.png" width="100px;" alt=""/><br /><sub><b>Amy</b></sub></a><br /></td>
+
   </tr>
 </table>
 <table>
   <tr>
-    <th colspan="1" align="center"><h4>Past Members</h4></th>
+    <th colspan="5" align="center"><h4>Past Members</h4></th>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/DakshG07"><img src="https://github.com/DakshG07.png" width="100px;" alt=""/><br /><sub><b>Dukk</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/ghostx31"><img src="https://github.com/ghostx31.png" width="100px;" alt=""/><br /><sub><b>Spooky</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/taka0o"><img src="https://github.com/taka0o.png" width="100px;" alt=""/><br /><sub><b>Taka</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/isabelincorp"><img src="https://github.com/isabelincorp.png" width="100px;" alt=""/><br /><sub><b>Isabel</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/nullishamy"><img src="https://github.com/nullishamy.png" width="100px;" alt=""/><br /><sub><b>Amy</b></sub></a><br /></td>
   </tr>
 </table>
 
