@@ -41,11 +41,11 @@ leadership:
     description: "Overseers of all userstyles."
     responsibilities: "Responsible for all matters related to userstyles. Such as setting the direction of all userstyles, approving new userstyles, and maintaining them."
     current-members:
-      - name: Bell
-        url: https://github.com/isabelroses
       - name: uncenter
         url: https://github.com/uncenter
-    past-members: []
+    past-members:
+      - name: Bell
+        url: https://github.com/isabelroses
   - name: "Moderator"
     identifier: "moderator"
     color: "peach"

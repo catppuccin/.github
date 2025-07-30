@@ -81,14 +81,20 @@ Responsible for all matters related to userstyles. Such as setting the direction
 
 <table>
   <tr>
-    <th colspan="2" align="center"><h4>Current Members</h4></th>
+    <th colspan="1" align="center"><h4>Current Members</h4></th>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/isabelroses"><img src="https://github.com/isabelroses.png" width="100px;" alt=""/><br /><sub><b>Bell</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/uncenter"><img src="https://github.com/uncenter.png" width="100px;" alt=""/><br /><sub><b>uncenter</b></sub></a><br /></td>
   </tr>
 </table>
-
+<table>
+  <tr>
+    <th colspan="1" align="center"><h4>Past Members</h4></th>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/isabelroses"><img src="https://github.com/isabelroses.png" width="100px;" alt=""/><br /><sub><b>Bell</b></sub></a><br /></td>
+  </tr>
+</table>
 
 ### Moderator
 
