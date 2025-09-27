@@ -36,7 +36,7 @@
   Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high contrast themes. It consists of 4 soothing warm flavors with 26 eye-candy colors each, perfect for coding, designing, and much more!
 </p>
 
-<p align="center">
+<h4 align="center">
   <a href="https://discord.com/servers/907385605422448742">
     <picture>
       <source srcset="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/macchiato_discord.svg" width="64" height="64" alt="Discord Logo" media="(prefers-color-scheme: dark)"/>
@@ -68,7 +68,7 @@
       <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/latte_reddit.svg" width="64" height="64" alt="Reddit Logo"/>
     </picture>
   </a>
-</p>
+</h4>
 
 <p align="center">
 Join our community!
