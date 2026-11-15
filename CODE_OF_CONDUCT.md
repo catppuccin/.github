@@ -29,7 +29,8 @@ any other platforms that may be used in the future.
      or any behavior creating discomfort, will not be tolerated.
 5. **Value of Human Interaction**
    - Show respect by means of thoughtful discussion. Exchange original ideas in
-     original words. Use AI only to assist, not to replace entirely.
+     original words. Use AI only to assist, not to replace entirely. Read the
+     full [AI Policy](./AI_POLICY.md).
 
 ### Enforcement
 
